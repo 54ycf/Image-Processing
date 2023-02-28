@@ -1,0 +1,45 @@
+target/
+
+python/fast-style-transfer-gpu/
+python/train-set/
+python/fast-style-transfer/checkpoints/qljst1
+python/fast-style-transfer/checkpoints/qljst2
+python/fast-style-transfer/checkpoints/qljst3
+python/fast-style-transfer/checkpoints/qljst4
+python/fast-style-transfer/fast-style-transfer-master/data
+
+python/fast-style-transfer/input_img
+python/fast-style-transfer/output_img
+
+
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/

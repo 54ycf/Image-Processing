@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: deploy
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+      enabled: true
+
+my-web-file: http://${my-host}:${server.port}/file

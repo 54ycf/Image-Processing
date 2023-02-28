@@ -1,0 +1,4 @@
+pycmd: python3
+web-file: http://www.yqspeak.cn:8082/file
+server:
+  port: 8082

@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+my-host: localhost\:8080
+
+pycmd: python
+web-file: http://localhost:8080/file
